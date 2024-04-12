@@ -1,0 +1,15 @@
+.btn-blue:link{
+	background-color: #A2CB62;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 10px;
+	text-decoration: none;
+}
+.btn-blue:visited{
+	background-color: #A2CB62;
+	color:#CE4FF0;
+}
+.btn-blue:hover{
+    background-color: white;
+    color: #A2CB62;
+}

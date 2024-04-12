@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Tilt+Neon&family=Whisper&display=swap');
+
+@import url(components/avatar.css);
+@import url(components/btn.css);
+@import url(components/container.css);
+@import url(components/banner.css);
+@import url(components/card.css);
+
+body{
+	font-family:"Tilt Neon", sans-serif;
+	font-size: 16px;
+	font-weight: lighter;
+	background-color: #CAD7E2;
+	text-align: center;
+}
+
+h1 h2 h3{
+	font-family: "Montserrat", sans-serif;
+	font-size:25px;
+	font-weight:bolder;
+}
+h2{
+	text-align: center;
+}
+
+a{
+	text-decoration: none;
+}
